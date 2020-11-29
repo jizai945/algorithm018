@@ -53,7 +53,7 @@ for(int i=2; i<=n; ++i) {
 	
 	
 	
-	
+binary_search c++库自带的二分查找	
 	
 	
 	
